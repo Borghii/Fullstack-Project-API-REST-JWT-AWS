@@ -99,3 +99,17 @@ Gracias a esta arquitectura:
 ### Load Balancer
 
 ![Load Balancer](assets/image26.png)
+
+
+
+
+https://github.com/user-attachments/assets/d09dd80c-0120-47b0-b565-b5da85f63503
+
+
+https://github.com/user-attachments/assets/770f20c1-7f5e-472c-9050-f000623b2c2d
+
+
+
+
+
+
