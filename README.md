@@ -81,7 +81,6 @@ Gracias a esta arquitectura:
 - El frontend está distribuido globalmente y es altamente disponible.
 - Toda la app opera bajo HTTPS con dominios personalizados.
 - La base de datos está segura en una red privada.
-- Las variables sensibles se manejan desde **AWS SSM Parameter Store**.
 
 ---
 
